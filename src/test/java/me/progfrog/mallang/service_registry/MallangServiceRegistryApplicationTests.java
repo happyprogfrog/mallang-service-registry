@@ -1,4 +1,4 @@
-package me.progfrog.mallang_service_registry;
+package me.progfrog.mallang.service_registry;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package me.progfrog.mallang_service_registry;
+package me.progfrog.mallang.service_registry;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
